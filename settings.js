@@ -1,4 +1,4 @@
-
+do
 
 const fs = require('fs')
 const chalk = require('chalk')
@@ -20,7 +20,7 @@ global.author = 'David_Cyril\n\nContact: 923288292968'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "Ｒ Ｉ Ｙ 么 Ｚ."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va8LrozDDmFXyQG4uz0a'
